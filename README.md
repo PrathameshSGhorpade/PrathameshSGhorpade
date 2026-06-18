@@ -1,4 +1,4 @@
-<code><span style="color: #2ea043;">// Access granted. Welcome to my profile.</span></code>
+<code><b><span style="color: #2ea043;">// > sudo explore --profile prathamesh</span><b></code>
 
 # 💫 About Me:
 **🎓 B.Tech IT '27 @ SCOE**
