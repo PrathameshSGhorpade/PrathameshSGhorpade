@@ -3,7 +3,7 @@
 # 💫 About Me:
 **🎓 B.Tech IT '27 @ SCOE**
 
-**🛡️ Cybersecurity Specialist & President, Cyber Security Club @ SCOE**
+**🛡️ Cybersecurity Specialist & President, Cyber Security Club @ SCOE** <br>
 **Building the next generation of security-minded engineers.**
 
 **💡 Mentoring the next wave of security engineers, because great hackers don't hoard knowledge.**
