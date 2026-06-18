@@ -1,7 +1,14 @@
 <code><span style="color: #2ea043;">// Access granted. Welcome to my profile.</span></code>
 
 # 💫 About Me:
-🎓 B.Tech IT '27 @ SCOE <br><br>🛡️ Cybersecurity Specialist & President, Cyber Security Club @ SCOE<br>   Building the next generation of security-minded engineers.<br><br>💡 Mentoring the next wave of security engineers, because great hackers don't hoard knowledge.<br><br>🔧 I build tools that break things — ethically. 
+**🎓 B.Tech IT '27 @ SCOE**
+
+**🛡️ Cybersecurity Specialist & President, Cyber Security Club @ SCOE**
+**Building the next generation of security-minded engineers.**
+
+**💡 Mentoring the next wave of security engineers, because great hackers don't hoard knowledge.**
+
+**🔧 I build tools that break things — ethically.**
 
 
 ## 🌐 Socials:
