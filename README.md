@@ -1,4 +1,4 @@
-+ // Access granted. Welcome to my profile.
+$\color{green}{\text{// Access granted. Welcome to my profile.}}$
 
 # 💫 About Me:
 🎓 B.Tech IT '27 @ SCOE <br><br>🛡️ Cybersecurity Specialist & President, Cyber Security Club @ SCOE<br>   Building the next generation of security-minded engineers.<br><br>💡 Mentoring the next wave of security engineers, because great hackers don't hoard knowledge.<br><br>🔧 I build tools that break things — ethically. 
